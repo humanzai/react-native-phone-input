@@ -148,3 +148,4 @@ render(){
 | selectCountry | void | iso2:string | set phone input to specific country |
 | getCountryCode | string | none | return country dial code of current phone number |
 | getISOCode | string | none | return country iso code of current phone number |
+| openPicker | void | none | Open countries picker |
